@@ -10,7 +10,9 @@ String s1 = "Nisha";
 
 System.out.println(System.identityHashCode(s));
 System.out.println(System.identityHashCode(s1));
-
+System.out.println(s);
+System.out.println(s1);
+System.out.println(1);
 
 }
 }
